@@ -204,7 +204,7 @@ ol {
   line-height: normal;
   background-color: transparent;
   border: none;
-  border-top: 1px solid #fff currentColor;
+  border-top: 1px solid currentColor;
   border-bottom: 1px solid #fff;
   appearance: none;
   padding: 0;
@@ -278,7 +278,7 @@ ol {
 .button {
   block-size: 34px;
   padding: 6px 73.5px;
-  border: 1px solid #fff currentColor;
+  border: 1px solid currentColor;
   background: #1b1919;
   color: #fff;
   text-align: center;
